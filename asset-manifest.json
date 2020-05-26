@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/s-sanel/crustpizzalab/static/css/main.5f361e03.chunk.css",
+    "main.js": "/s-sanel/crustpizzalab/static/js/main.dd4895a7.chunk.js",
+    "main.js.map": "/s-sanel/crustpizzalab/static/js/main.dd4895a7.chunk.js.map",
+    "runtime-main.js": "/s-sanel/crustpizzalab/static/js/runtime-main.84f59c25.js",
+    "runtime-main.js.map": "/s-sanel/crustpizzalab/static/js/runtime-main.84f59c25.js.map",
+    "static/js/2.bc94c555.chunk.js": "/s-sanel/crustpizzalab/static/js/2.bc94c555.chunk.js",
+    "static/js/2.bc94c555.chunk.js.map": "/s-sanel/crustpizzalab/static/js/2.bc94c555.chunk.js.map",
+    "index.html": "/s-sanel/crustpizzalab/index.html",
+    "precache-manifest.e7fc9b1c214a4a785b42dca2036f9e84.js": "/s-sanel/crustpizzalab/precache-manifest.e7fc9b1c214a4a785b42dca2036f9e84.js",
+    "service-worker.js": "/s-sanel/crustpizzalab/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/s-sanel/crustpizzalab/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.bc94c555.chunk.js.LICENSE.txt": "/s-sanel/crustpizzalab/static/js/2.bc94c555.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/s-sanel/crustpizzalab/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84f59c25.js",
+    "static/js/2.bc94c555.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.dd4895a7.chunk.js"
+  ]
+}
