@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/crustpizzalab/precache-manifest.a79bb0525a660d61dbfb06b2943dc515.js"
+  "/crustpizzalab/precache-manifest.ba82527f7745a900990f1b6da039e835.js"
 );
 
 self.addEventListener('message', (event) => {
