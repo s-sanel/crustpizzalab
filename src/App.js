@@ -17,15 +17,16 @@ const About = () => (
 
 const Home = () => (
   <div className="App">
-    <div className="container" style={{minHeight: '56px'}}>
+    <div className="container" style={{ minHeight: "56px" }}>
       <Navbar
         // bg="light"
         fixed="top"
-        expand="md"
+        expand="lg"
         style={{ backgroundColor: "#FAB500" }}
       >
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
-        <Navbar.Brand as={Link} to="/" className="d-block d-md-none p-0">
+        
+        <Navbar.Brand as={Link} to="/" className="d-block d-lg-none p-0 ml-2 mr-auto">
           <img
             src={logo}
             width="40"
@@ -35,15 +36,33 @@ const Home = () => (
           />
         </Navbar.Brand>
 
+        <Button variant="danger" className="d-block d-lg-none">
+          ORDER ONLINE
+        </Button>
+
+
         <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="mr-auto" style={{width:'100%', justifyContent:'center'}}>
+          <Nav
+            className="mr-auto"
+            style={{ width: "100%", justifyContent: "center" }}
+          >
             <Nav.Link as={Link} to="/">
-              Home
+              our pizzor
             </Nav.Link>
-            <Navbar.Brand
+            <Nav.Link as={Link} to="/">
+              menus
+            </Nav.Link>
+            <Nav.Link as={Link} to="/">
+              contact
+            </Nav.Link>
+            <div
+              className="d-none d-lg-block mr-0"
+              style={{ width: "0px" }}
+            ></div>
+            {/* <Navbar.Brand
               as={Link}
               to="/"
-              className="d-none d-md-block mr-0"
+              className="d-none d-lg-block mr-0"
               style={{
                 position: "relative",
                 width: "100px",
@@ -60,17 +79,56 @@ const Home = () => (
                   position: "absolute",
                   top: 0,
                   left: 0,
-                  border: "1px solid",
+                  border: "1px solid #FDC72C",
                   borderRadius: "50%",
                   backgroundColor: "#E74345"
                 }}
               />
-            </Navbar.Brand>
+            </Navbar.Brand> */}
             <Nav.Link as={Link} to="/about">
-              About
+              work with us
+            </Nav.Link>
+            <Nav.Link as={Link} to="/about">
+              restaurants
             </Nav.Link>
           </Nav>
         </Navbar.Collapse>
+
+        <Navbar.Brand
+          as={Link}
+          to="/"
+          className="d-none d-lg-block mr-0"
+          style={{
+            position: "absolute",
+            top: 0,
+            left: "50%",
+            transform: "translateX(-50px)",
+            backgroundColor: ""
+          }}
+        >
+          <img
+            src={logo}
+            width="100"
+            height="100"
+            className="d-inline-block align-top"
+            alt="React Bootstrap logo"
+            style={{
+              // position: "absolute",
+              // top: 0,
+              // left: 0,
+              border: "1px solid #FDC72C",
+              borderRadius: "50%",
+              backgroundColor: "#E74345"
+            }}
+          />
+        </Navbar.Brand>
+        <Button
+          variant="danger"
+          className="d-none d-lg-block"
+          style={{ position: "absolute", right: "10px" }}
+        >
+          ORDER ONLINE
+        </Button>
       </Navbar>
     </div>
 
