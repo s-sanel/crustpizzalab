@@ -1,14 +1,16 @@
 .homepage-article {
-    min-height: 360px;
+    /* min-height: 360px; */
 }
 
 .article-image {
-
+    min-height: 360px;
+    /* height: 100%; */
 }
 
 .article-description {
     display: flex;
     flex-direction: column;
+    /* height: 100%; */
 }
 
 .article-description-text {
@@ -17,4 +19,11 @@
 
 .article-action-btn {
     /* margin-top: auto; */
+    align-self: center;
+}
+
+@media (max-width: 767px) {
+    .homepage-article {
+        border-bottom: 3px solid white;
+    }
 }
