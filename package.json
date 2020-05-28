@@ -2,7 +2,7 @@
   "name": "crustpizzalab",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sanel-selmanovic.us/crustpizzalab",
+  "homepage": "https://s-sanel.github.io/crustpizzalab",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
