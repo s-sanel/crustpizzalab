@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "76d4b1d2e8bb6d040f6544730c1391ee",
+    "revision": "53231d6220b7ba0d7e1789494bd8d1ce",
     "url": "/crustpizzalab/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crustpizzalab/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "84d3516f0b473495ecf2",
-    "url": "/crustpizzalab/static/css/main.6b0b40fb.chunk.css"
+    "revision": "8326a58f317963a755cc",
+    "url": "/crustpizzalab/static/css/main.c638b0d8.chunk.css"
   },
   {
     "revision": "982d7ef764c89f8500ea",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crustpizzalab/static/js/2.bf969327.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "84d3516f0b473495ecf2",
-    "url": "/crustpizzalab/static/js/main.22666080.chunk.js"
+    "revision": "8326a58f317963a755cc",
+    "url": "/crustpizzalab/static/js/main.60a6c18f.chunk.js"
   },
   {
     "revision": "863b6a12fd0a25eb1df5",
