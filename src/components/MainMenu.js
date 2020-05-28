@@ -30,7 +30,7 @@ const MainMenu = () => {
 
 
     //   <div className="container" style={{ minHeight: "56px" }}>
-        <Navbar collapseOnSelect fixed="top" expand="lg" className='main-navigation' style={{ backgroundColor: "#FAB500" }}>
+        <Navbar collapseOnSelect expand="lg" className='main-navigation sticky-nav' style={{ backgroundColor: "#FAB500" }}>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Brand as={Link} to="/" className="d-block d-lg-none p-0 ml-2 mr-auto">
             <img src={logo} alt="Crust Pizza Lab logo"
