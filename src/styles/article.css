@@ -7,5 +7,10 @@
 }
 
 .article-description {
+    display: flex;
+    flex-direction: column;
+}
 
+.article-action-btn {
+    margin-top: auto;
 }

@@ -15,9 +15,17 @@ const Article = ({reorderForMedium}) => {
           </div>
 
           <div
-            className={`article-desription col-md ml-0${reorderForMedium ? ' order-md-1' : ''}`}
+            className={`article-description col-md ml-0${reorderForMedium ? ' order-md-1' : ''} `}
             style={{  }}>
-            <h1>text</h1>
+            <h3>VÅRA CRUST PIZZALABS</h3>
+            <div>
+                <p>
+                    Du hittar oss i Malmö, mitt i centrum vid Hansa Companiet. <br/>
+                    Vårt mål är mer krispig pizza åt folket, så vi kommer öppna fler Labs framöver. <br/>
+                    Kanske öppnar vi ett Lab nära dig? Följ oss på Facebook o Instagram.
+                </p>
+            </div>
+            <a href="#" className="btn btn-danger article-action-btn">VISA KARTA</a>
           </div>
 
         </div>
