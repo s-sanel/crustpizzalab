@@ -11,6 +11,10 @@
     flex-direction: column;
 }
 
+.article-description-text {
+    margin: auto;
+}
+
 .article-action-btn {
-    margin-top: auto;
+    /* margin-top: auto; */
 }
