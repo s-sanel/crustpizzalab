@@ -1,3 +1,74 @@
+.main-navigation {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.nav-collapse-container {
+  width: 100%; 
+  justify-content: center;
+
+}
+
+.navbar-brand-small-logo {
+  border: 1px solid #FDC72C;
+  border-radius: 50%;
+  background-color: #E74345;
+  width: 40px;
+  height: 40px;
+}
+
+.navbar-brand-large-logo-container {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50px);
+}
+
+.navbar-brand-large-logo {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: 1px solid #FDC72C;
+  border-radius: 50%;
+  background-color: #E74345;
+}
+
 .nav-link {
   text-transform: uppercase;
+  letter-spacing: 1px;
+  display: flex;
+  align-items: center;
+}
+
+.navbar-collapse {
+  /* height: 100vw; */
+  /* border: 1px solid saddlebrown; */
+  /* margin-top: 10px; */
+  /* padding: 10px; */
+}
+
+@media (max-width: 991px) {
+  .nav-collapse-container {
+    width: 100%; 
+    margin-top: 10px;
+    border-top: 1px solid #FDC72C;
+    border-bottom: 1px solid #FDC72C;
+    padding: 20px 0;
+  }
+}
+
+@media (min-width: 992px) {
+  .main-navigation {
+    height: 90px;
+    align-items: flex-start;
+  }
+
+  .navbar-brand-large-logo-container  {
+    top: 40px;
+  }
+
+  .nav-link {
+    margin-right: 5px;
+  }
 }
