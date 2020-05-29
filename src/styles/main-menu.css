@@ -41,7 +41,6 @@
   letter-spacing: 1px;
   display: flex;
   align-items: center;
-  color: white;
 }
 
 .navbar-collapse {
@@ -64,7 +63,7 @@
 @media (max-width: 991px) {
   .nav-collapse-container {
     width: 100%; 
-    margin-top: 10px;
+    margin-top: 5px;
     border-top: 1px solid #FDC72C;
     border-bottom: 1px solid #FDC72C;
     padding: 20px 0;
@@ -74,6 +73,14 @@
     border: none;
     padding-top: 10px; 
     padding-bottom: 10px; 
+  }
+
+  .navbar-collapse .nav-collapse .nav-link {
+    padding-left: 5px;
+  }
+
+  .nav-link:hover {
+    background-color: rgb(255, 191, 10);
   }
 
   /* slide from left - BEGIN */

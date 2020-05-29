@@ -2,7 +2,6 @@ import React from "react";
 import Button from "react-bootstrap/Button";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
-import logo from "../logo.svg";
 import logoCrust from "../images/logo/logo-crust.png"; //"../logo-crust.png";
 import { Link } from "react-router-dom";
 import "../styles/main-menu.css";
