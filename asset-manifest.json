@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.css": "/crustpizzalab/static/css/main.1bd73657.chunk.css",
-    "main.js": "/crustpizzalab/static/js/main.ef2177b5.chunk.js",
-    "main.js.map": "/crustpizzalab/static/js/main.ef2177b5.chunk.js.map",
+    "main.css": "/crustpizzalab/static/css/main.fa27aa53.chunk.css",
+    "main.js": "/crustpizzalab/static/js/main.baa3cb1a.chunk.js",
+    "main.js.map": "/crustpizzalab/static/js/main.baa3cb1a.chunk.js.map",
     "runtime-main.js": "/crustpizzalab/static/js/runtime-main.2d573584.js",
     "runtime-main.js.map": "/crustpizzalab/static/js/runtime-main.2d573584.js.map",
     "static/css/2.af3c1da9.chunk.css": "/crustpizzalab/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.97162e82.chunk.js": "/crustpizzalab/static/js/2.97162e82.chunk.js",
-    "static/js/2.97162e82.chunk.js.map": "/crustpizzalab/static/js/2.97162e82.chunk.js.map",
+    "static/js/2.b945fc7d.chunk.js": "/crustpizzalab/static/js/2.b945fc7d.chunk.js",
+    "static/js/2.b945fc7d.chunk.js.map": "/crustpizzalab/static/js/2.b945fc7d.chunk.js.map",
     "index.html": "/crustpizzalab/index.html",
-    "precache-manifest.99a6cfadcfa012417cf9be47a972507c.js": "/crustpizzalab/precache-manifest.99a6cfadcfa012417cf9be47a972507c.js",
+    "precache-manifest.f787c44aa2828fbbfa10a07b7d7e88d5.js": "/crustpizzalab/precache-manifest.f787c44aa2828fbbfa10a07b7d7e88d5.js",
     "service-worker.js": "/crustpizzalab/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/crustpizzalab/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.1bd73657.chunk.css.map": "/crustpizzalab/static/css/main.1bd73657.chunk.css.map",
-    "static/js/2.97162e82.chunk.js.LICENSE.txt": "/crustpizzalab/static/js/2.97162e82.chunk.js.LICENSE.txt",
+    "static/css/main.fa27aa53.chunk.css.map": "/crustpizzalab/static/css/main.fa27aa53.chunk.css.map",
+    "static/js/2.b945fc7d.chunk.js.LICENSE.txt": "/crustpizzalab/static/js/2.b945fc7d.chunk.js.LICENSE.txt",
+    "static/media/parallax.css": "/crustpizzalab/static/media/Slide0.89fc34a5.jpg",
+    "static/media/Slide1.jpg": "/crustpizzalab/static/media/Slide1.9ac97229.jpg",
+    "static/media/Slide2.jpg": "/crustpizzalab/static/media/Slide2.058381bd.jpg",
+    "static/media/block3.jpg": "/crustpizzalab/static/media/block3.554c0353.jpg",
+    "static/media/block4.jpg": "/crustpizzalab/static/media/block4.886274a3.jpg",
+    "static/media/block5.jpg": "/crustpizzalab/static/media/block5.50fc1d2c.jpg",
     "static/media/footer-logo.png": "/crustpizzalab/static/media/footer-logo.7162e505.png",
     "static/media/logo-crust.png": "/crustpizzalab/static/media/logo-crust.a203aed5.png",
     "static/media/logo.svg": "/crustpizzalab/static/media/logo.5d5d9eef.svg"
@@ -21,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.2d573584.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.97162e82.chunk.js",
-    "static/css/main.1bd73657.chunk.css",
-    "static/js/main.ef2177b5.chunk.js"
+    "static/js/2.b945fc7d.chunk.js",
+    "static/css/main.fa27aa53.chunk.css",
+    "static/js/main.baa3cb1a.chunk.js"
   ]
 }
