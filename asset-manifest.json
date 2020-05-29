@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/crustpizzalab/static/css/main.64cf3256.chunk.css",
-    "main.js": "/crustpizzalab/static/js/main.baa3cb1a.chunk.js",
-    "main.js.map": "/crustpizzalab/static/js/main.baa3cb1a.chunk.js.map",
+    "main.css": "/crustpizzalab/static/css/main.ed7e2fc1.chunk.css",
+    "main.js": "/crustpizzalab/static/js/main.172d002e.chunk.js",
+    "main.js.map": "/crustpizzalab/static/js/main.172d002e.chunk.js.map",
     "runtime-main.js": "/crustpizzalab/static/js/runtime-main.2d573584.js",
     "runtime-main.js.map": "/crustpizzalab/static/js/runtime-main.2d573584.js.map",
     "static/css/2.af3c1da9.chunk.css": "/crustpizzalab/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.b945fc7d.chunk.js": "/crustpizzalab/static/js/2.b945fc7d.chunk.js",
-    "static/js/2.b945fc7d.chunk.js.map": "/crustpizzalab/static/js/2.b945fc7d.chunk.js.map",
+    "static/js/2.b9439710.chunk.js": "/crustpizzalab/static/js/2.b9439710.chunk.js",
+    "static/js/2.b9439710.chunk.js.map": "/crustpizzalab/static/js/2.b9439710.chunk.js.map",
     "index.html": "/crustpizzalab/index.html",
-    "precache-manifest.dae569f63d93084686dd1ee3200825b3.js": "/crustpizzalab/precache-manifest.dae569f63d93084686dd1ee3200825b3.js",
+    "precache-manifest.31d50e2f5708ce97ea0153fbf509ebde.js": "/crustpizzalab/precache-manifest.31d50e2f5708ce97ea0153fbf509ebde.js",
     "service-worker.js": "/crustpizzalab/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/crustpizzalab/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.64cf3256.chunk.css.map": "/crustpizzalab/static/css/main.64cf3256.chunk.css.map",
-    "static/js/2.b945fc7d.chunk.js.LICENSE.txt": "/crustpizzalab/static/js/2.b945fc7d.chunk.js.LICENSE.txt",
+    "static/css/main.ed7e2fc1.chunk.css.map": "/crustpizzalab/static/css/main.ed7e2fc1.chunk.css.map",
+    "static/js/2.b9439710.chunk.js.LICENSE.txt": "/crustpizzalab/static/js/2.b9439710.chunk.js.LICENSE.txt",
     "static/media/parallax.css": "/crustpizzalab/static/media/Slide0.89fc34a5.jpg",
     "static/media/Slide1.jpg": "/crustpizzalab/static/media/Slide1.9ac97229.jpg",
     "static/media/Slide2.jpg": "/crustpizzalab/static/media/Slide2.058381bd.jpg",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.2d573584.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.b945fc7d.chunk.js",
-    "static/css/main.64cf3256.chunk.css",
-    "static/js/main.baa3cb1a.chunk.js"
+    "static/js/2.b9439710.chunk.js",
+    "static/css/main.ed7e2fc1.chunk.css",
+    "static/js/main.172d002e.chunk.js"
   ]
 }
