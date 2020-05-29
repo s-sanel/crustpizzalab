@@ -5,7 +5,6 @@
 }
 
 .main-navigation {
-  font-family: 'Josefin Sans', sans-serif;
   font-weight: 700;
   font-size: 14px;
   box-shadow: 0 2px 4px -1px rgba(0,0,0,.2), 0 4px 5px 0 rgba(0,0,0,.14), 0 1px 10px 0 rgba(0,0,0,.12);
@@ -21,13 +20,13 @@
   border: 1px solid #FDC72C;
   border-radius: 50%;
   background-color: #E74345;
-  width: 40px;
-  height: 40px;
+  width: 50px;
+  height: 50px;
 }
 
 .navbar-brand-large-logo-container {
   position: absolute;
-  top: 0;
+  top: 5px;
   left: 50%;
   transform: translateX(-50px);
 }
@@ -42,6 +41,7 @@
   letter-spacing: 1px;
   display: flex;
   align-items: center;
+  color: white;
 }
 
 .navbar-collapse {
@@ -49,6 +49,16 @@
   /* border: 1px solid saddlebrown; */
   /* margin-top: 10px; */
   /* padding: 10px; */
+}
+
+.btn-order-online {
+  background-color: #E74345;
+  border: #E74345;
+}
+
+.btn-order-online-text {
+  font-size: 12px;
+  letter-spacing: 3px;
 }
 
 @media (max-width: 991px) {
@@ -62,6 +72,8 @@
 
   .navbar-toggler {
     border: none;
+    padding-top: 10px; 
+    padding-bottom: 10px; 
   }
 
   /* slide from left - BEGIN */
@@ -107,10 +119,14 @@
   }
 
   .navbar-brand-large-logo-container  {
-    top: 40px;
+    top: 35px;
   }
 
   .nav-link {
     margin-right: 5px;
+  }
+
+  .nav-link {
+    color: white;
   }
 }

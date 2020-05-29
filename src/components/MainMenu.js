@@ -16,14 +16,16 @@ import { LinkContainer } from "react-router-bootstrap";
 const MainMenu = () => {
     return (
     //   <div className="container" style={{ minHeight: "56px" }}>
-        <Navbar collapseOnSelect expand="lg" className='main-navigation sticky-nav' style={{ backgroundColor: "#FAB500" }}>
+        <Navbar collapseOnSelect expand="lg" className='main-navigation sticky-nav py-1' style={{ backgroundColor: "#FAB500" }}>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Brand as={Link} to="/" className="d-block d-md-none p-0 ml-2 mr-auto">
             <img src={logoCrust} alt="Crust Pizza Lab logo"
               className="d-inline-block align-top navbar-brand-small-logo" />
           </Navbar.Brand>
 
-          <Button variant="danger" className="d-block d-lg-none">ORDER ONLINE</Button>
+          <Button variant="danger" className="d-block d-lg-none btn-order-online">
+            <span class="align-middle btn-order-online-text">BESTÄLL ONLINE</span>
+          </Button>
 
           <Navbar.Collapse id="basic-navbar-nav" className='navbar-collapse'>
             <Nav className="mr-auto nav-collapse nav-collapse-container">        
@@ -46,6 +48,10 @@ const MainMenu = () => {
                 <LinkContainer to="/contact">
                     <Nav.Link><EmailIcon className="d-block d-lg-none mr-3"/> kontakt</Nav.Link>
                 </LinkContainer>
+
+                <Button variant="danger" className="d-none d-lg-block order-online-btn-large btn-order-online ml-2">
+                    <span class="align-middle btn-order-online-text">BESTÄLL ONLINE</span>
+                </Button>
             </Nav>
           </Navbar.Collapse>
 
@@ -57,10 +63,7 @@ const MainMenu = () => {
               className="d-inline-block align-top navbar-brand-large-logo"
             />
           </Navbar.Brand>
-          <Button variant="danger" className="d-none d-lg-block order-online-btn-large"
-            style={{ position: "absolute", right: "10px" }}>
-            ORDER ONLINE
-          </Button>
+
         </Navbar>
     //   </div>
     );
