@@ -3,6 +3,7 @@ import Button from "react-bootstrap/Button";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import logo from "../logo.svg";
+import logoCrust from "../images/logo/logo-crust.png"; //"../logo-crust.png";
 import { Link } from "react-router-dom";
 import "../styles/main-menu.css";
 import PizzaIcon from "mdi-react/PizzaIcon";
@@ -14,26 +15,11 @@ import { LinkContainer } from "react-router-bootstrap";
 
 const MainMenu = () => {
     return (
-
-        // <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
-        //     <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
-        //     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
-        //     <Navbar.Collapse id="responsive-navbar-nav">
-        //         <Nav className="mr-auto">
-        //             <Nav.Link href="#features">Features</Nav.Link>
-        //             <Nav.Link href="#pricing">Pricing</Nav.Link>
-                    
-        //         </Nav>
-                
-        //     </Navbar.Collapse>
-        // </Navbar>
-
-
     //   <div className="container" style={{ minHeight: "56px" }}>
         <Navbar collapseOnSelect expand="lg" className='main-navigation sticky-nav' style={{ backgroundColor: "#FAB500" }}>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
-          <Navbar.Brand as={Link} to="/" className="d-block d-lg-none p-0 ml-2 mr-auto">
-            <img src={logo} alt="Crust Pizza Lab logo"
+          <Navbar.Brand as={Link} to="/" className="d-block d-md-none p-0 ml-2 mr-auto">
+            <img src={logoCrust} alt="Crust Pizza Lab logo"
               className="d-inline-block align-top navbar-brand-small-logo" />
           </Navbar.Brand>
 
@@ -66,8 +52,8 @@ const MainMenu = () => {
           <Navbar.Brand
             as={Link}
             to="/"
-            className="d-none d-lg-block mr-0 navbar-brand-large-logo-container">
-            <img src={logo} alt="React Bootstrap logo"
+            className="d-none d-md-block mr-0 navbar-brand-large-logo-container">
+            <img src={logoCrust} alt="React Bootstrap logo"
               className="d-inline-block align-top navbar-brand-large-logo"
             />
           </Navbar.Brand>
