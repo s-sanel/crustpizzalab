@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/crustpizzalab/static/css/main.fa27aa53.chunk.css",
+    "main.css": "/crustpizzalab/static/css/main.64cf3256.chunk.css",
     "main.js": "/crustpizzalab/static/js/main.baa3cb1a.chunk.js",
     "main.js.map": "/crustpizzalab/static/js/main.baa3cb1a.chunk.js.map",
     "runtime-main.js": "/crustpizzalab/static/js/runtime-main.2d573584.js",
@@ -9,10 +9,10 @@
     "static/js/2.b945fc7d.chunk.js": "/crustpizzalab/static/js/2.b945fc7d.chunk.js",
     "static/js/2.b945fc7d.chunk.js.map": "/crustpizzalab/static/js/2.b945fc7d.chunk.js.map",
     "index.html": "/crustpizzalab/index.html",
-    "precache-manifest.f787c44aa2828fbbfa10a07b7d7e88d5.js": "/crustpizzalab/precache-manifest.f787c44aa2828fbbfa10a07b7d7e88d5.js",
+    "precache-manifest.dae569f63d93084686dd1ee3200825b3.js": "/crustpizzalab/precache-manifest.dae569f63d93084686dd1ee3200825b3.js",
     "service-worker.js": "/crustpizzalab/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/crustpizzalab/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.fa27aa53.chunk.css.map": "/crustpizzalab/static/css/main.fa27aa53.chunk.css.map",
+    "static/css/main.64cf3256.chunk.css.map": "/crustpizzalab/static/css/main.64cf3256.chunk.css.map",
     "static/js/2.b945fc7d.chunk.js.LICENSE.txt": "/crustpizzalab/static/js/2.b945fc7d.chunk.js.LICENSE.txt",
     "static/media/parallax.css": "/crustpizzalab/static/media/Slide0.89fc34a5.jpg",
     "static/media/Slide1.jpg": "/crustpizzalab/static/media/Slide1.9ac97229.jpg",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.2d573584.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.b945fc7d.chunk.js",
-    "static/css/main.fa27aa53.chunk.css",
+    "static/css/main.64cf3256.chunk.css",
     "static/js/main.baa3cb1a.chunk.js"
   ]
 }
