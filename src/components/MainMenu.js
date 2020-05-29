@@ -22,7 +22,7 @@ const MainMenu = () => {
               className="d-inline-block align-top navbar-brand-small-logo" />
           </Navbar.Brand>
 
-          <Button variant="danger" className="d-block d-lg-none btn-order-online">
+          <Button variant="danger" className="d-block d-lg-none order-online-btn-large btn-order-online">
             <span class="align-middle btn-order-online-text">BESTÄLL ONLINE</span>
           </Button>
 

@@ -20,6 +20,11 @@
 .article-action-btn {
     /* margin-top: auto; */
     align-self: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 14px;
+    background-color: #E74345;
+    border: #E74345;
 }
 
 @media (max-width: 767px) {

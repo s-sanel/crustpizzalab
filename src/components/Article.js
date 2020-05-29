@@ -14,7 +14,9 @@ const Article = ({ reorderForMedium, title, description, buttonText, buttonUrl, 
             <div className="article-description-text">
                 {children}
             </div>
-            <a href={buttonUrl} className="btn btn-danger article-action-btn">{buttonText}</a>
+            <button href={buttonUrl} className="btn btn-danger article-action-btn py-3 px-5">
+                <span class="align-middle">{buttonText}</span>
+            </button>
           </div>
 
         </div>
