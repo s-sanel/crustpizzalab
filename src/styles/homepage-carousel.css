@@ -1,13 +1,25 @@
 .test {
   /* margin: 2px 0; */
-  /* border: 1px solid green; */
+  border: 1px solid red;
   /* background-color: brown; */
-  /* min-height: 300px; */
+  /* min-height: 350px; */
+  /* height: 100vh; */
   
   background-color: gray;
 }
 
 .test img {
   /* width: 100%; */
-  /* min-height: 50vh; */
+  /* min-height:80vh; */
 }
+
+
+/* .carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} */

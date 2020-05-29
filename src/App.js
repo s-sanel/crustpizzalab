@@ -11,6 +11,7 @@ import HomePageCarousel from './components/HomePageCarousel';
 import BusinessHours from './components/BusinessHours';
 import ArticlesList from './components/ArticlesList';
 import Footer from './components/Footer';
+import Parallax from './components/Parallax';
 
 const About = () => (
   <div>
@@ -21,16 +22,16 @@ const About = () => (
 
 const Home = () => (
   <div className="App">
-    
     <HomePageCarousel />
     <BusinessHours />
     <ArticlesList />
+    <Parallax />
     <Footer />
-    
+
     {/* <header className="App-header"> */}
-      {/* <img src={logo} className="App-logo" alt="logo" /> */}
-      {/* <p>crust</p> */}
-      {/* <Button variant="outline-danger">test</Button> */}
+    {/* <img src={logo} className="App-logo" alt="logo" /> */}
+    {/* <p>crust</p> */}
+    {/* <Button variant="outline-danger">test</Button> */}
     {/* </header> */}
   </div>
 );

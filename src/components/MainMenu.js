@@ -15,7 +15,7 @@ import { LinkContainer } from "react-router-bootstrap";
 const MainMenu = () => {
     return (
     //   <div className="container" style={{ minHeight: "56px" }}>
-        <Navbar collapseOnSelect expand="lg" className='main-navigation sticky-nav py-1' style={{ backgroundColor: "#FAB500" }}>
+        <Navbar collapseOnSelect fixed="top" expand="lg" className='main-navigation !sticky-nav! py-1' style={{ backgroundColor: "#FAB500" }}>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Brand as={Link} to="/" className="d-block d-md-none p-0 ml-2 mr-auto">
             <img src={logoCrust} alt="Crust Pizza Lab logo"

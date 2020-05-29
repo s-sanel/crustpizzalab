@@ -1,0 +1,16 @@
+.parallax {
+    background-image: url(../images/slide/Slide0.jpg);
+    /* background-color: #FFBF0A; */
+    background-attachment: fixed;
+    background-position: 60% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+    margin: 30px 0 0;
+}
+
+@media (max-width: 767px) {
+    .parallax {
+        height: 250px;
+    }
+}

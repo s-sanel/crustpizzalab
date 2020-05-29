@@ -1,5 +1,8 @@
 import React from 'react'
 import Article from './Article';
+import blockImage3 from '../images/articles/block3.jpg';
+import blockImage4 from '../images/articles/block4.jpg';
+import blockImage5 from '../images/articles/block5.jpg';
 
 const ArticlesList = () => {
     return (
@@ -7,6 +10,7 @@ const ArticlesList = () => {
         <Article
           reorderForMedium
           title="VÅRA CRUST PIZZALABS"
+          backgroundArticleUrl={blockImage3}
           buttonText="VISA KARTA"
           buttonUrl="#"
         >
@@ -17,11 +21,12 @@ const ArticlesList = () => {
             Kanske öppnar vi ett Lab nära dig? Följ oss på Facebook o Instagram.
           </p>
         </Article>
-        
+
         <Article
-            title="PIZZA FÖR DINA 5 SINNEN"
-            buttonText="LÄS MER"
-            buttonUrl="#"
+          title="PIZZA FÖR DINA 5 SINNEN"
+          backgroundArticleUrl={blockImage4}
+          buttonText="LÄS MER"
+          buttonUrl="#"
         >
           <p>
             Det är ingen vanlig pizza du får när du beställer från vårt Pizza
@@ -32,18 +37,22 @@ const ArticlesList = () => {
             av krispig crust!
           </p>
         </Article>
-        
-        <Article 
-            reorderForMedium
-            title="JOBBA HOS OSS"
-            buttonText="Kontakta oss"
-            buttonUrl="#">
-                <p>
-                    Är du en matälskare, med extra försmak för Pizza?<br/> 
-                    Lagar du mat med passion och brinner för god service och gott engagemang? <br/>
-                    Då är du kanske den vi söker till vårt Pizza Lab Team! <br/>
-                    Skicka in din ansökan här
-                </p>   
+
+        <Article
+          reorderForMedium
+          title="JOBBA HOS OSS"
+          backgroundArticleUrl={blockImage5}
+          buttonText="Kontakta oss"
+          buttonUrl="#"
+        >
+          <p>
+            Är du en matälskare, med extra försmak för Pizza?
+            <br />
+            Lagar du mat med passion och brinner för god service och gott
+            engagemang? <br />
+            Då är du kanske den vi söker till vårt Pizza Lab Team! <br />
+            Skicka in din ansökan här
+          </p>
         </Article>
       </div>
     );

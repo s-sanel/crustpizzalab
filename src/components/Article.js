@@ -1,12 +1,14 @@
 import React from 'react';
 import "../styles/article.css";
 
-const Article = ({ reorderForMedium, title, description, buttonText, buttonUrl, children}) => { 
+const Article = ({ reorderForMedium, title, description, buttonText, buttonUrl, backgroundArticleUrl, children}) => { 
     return (
         <div className="homepage-article row m-0" style={{ }}>
           
-          <div className={`article-image col-md ml-0${reorderForMedium ?' order-md-12':''}`} style={{ backgroundColor: "beige" }}>
-            
+          <div className={`article-image col-md ml-0${reorderForMedium ?' order-md-12':''}`} 
+            style={{ 
+                backgroundImage: `url(${backgroundArticleUrl})`
+             }}>
           </div>
 
           <div className={`article-description col-md py-5 ml-0${reorderForMedium ? ' order-md-1' : ''} `}>
