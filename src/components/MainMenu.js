@@ -36,11 +36,11 @@ const MainMenu = () => {
                     <Nav.Link><MapIcon className="d-block d-lg-none mr-3"/> VÅR meny</Nav.Link>
                 </LinkContainer>
                 
-                <LinkContainer to="/rest">
+                <LinkContainer to="/restaurants">
                     <Nav.Link><MapMarkerIcon className="d-block d-lg-none mr-3"/> VÅRA RESTAURANGER</Nav.Link>
                 </LinkContainer>
                 
-                <LinkContainer to="/job">
+                <LinkContainer to="/contact">
                     <Nav.Link><ChefHatIcon className="d-block d-lg-none mr-3"/> jobba hos oss</Nav.Link>
                 </LinkContainer>
                 

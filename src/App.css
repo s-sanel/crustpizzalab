@@ -38,3 +38,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+.page-wrapper {
+  padding-top: 58px;
+}
+
+@media (min-width: 992px) {
+  .page-wrapper {
+    padding-top: 90px;
+  } 
+}

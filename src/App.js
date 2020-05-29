@@ -13,10 +13,22 @@ import ArticlesList from './components/ArticlesList';
 import Footer from './components/Footer';
 import Parallax from './components/Parallax';
 
-const About = () => (
+
+const MenuPage = () => (
   <div>
-    <h1>About page</h1>
-    <Link to="/">Home</Link>
+    <h1>Menu page</h1>
+  </div>
+);
+
+const RestaurantsPage = () => (
+  <div>
+    <h1>Restaurants page</h1>
+  </div>
+);
+
+const ContactPage = () => (
+  <div>
+    <h1>Contact page</h1>
   </div>
 );
 
@@ -25,7 +37,7 @@ const Home = () => (
     <HomePageCarousel />
     <BusinessHours />
     <ArticlesList />
-    <Parallax />
+    {/* <Parallax /> */}
     <Footer />
 
     {/* <header className="App-header"> */}
@@ -40,10 +52,14 @@ function App() {
   return(
     <>
       <MainMenu/>
+      <div className="page-wrapper">
       <Switch>
         <Route path="/" exact component={Home} />
-        <Route path="/about" exact component={About} />
+        <Route path="/menu" exact component={MenuPage} />
+        <Route path="/restaurants" exact component={RestaurantsPage} />
+        <Route path="/contact" exact component={ContactPage} />
       </Switch>
+      </div>
     </>
   )
 }
