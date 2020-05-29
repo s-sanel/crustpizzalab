@@ -12,5 +12,6 @@
 @media (max-width: 767px) {
     .parallax {
         height: 250px;
+        background-attachment: unset;
     }
 }
