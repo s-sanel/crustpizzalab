@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b4b6c6aa49c378cffebf470f7407ec58",
+    "revision": "ddc4ddb9b2c90a47b255cb3d38c737fa",
     "url": "/crustpizzalab/index.html"
   },
   {
-    "revision": "6264902f197d42a1b4ba",
+    "revision": "5f8c97e90c764cc36d53",
     "url": "/crustpizzalab/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "5b27b4b7f6aed4c3db15",
-    "url": "/crustpizzalab/static/css/main.ed7e2fc1.chunk.css"
+    "revision": "b65733f51d5a9983efb3",
+    "url": "/crustpizzalab/static/css/main.bd14b2ff.chunk.css"
   },
   {
-    "revision": "6264902f197d42a1b4ba",
-    "url": "/crustpizzalab/static/js/2.b9439710.chunk.js"
+    "revision": "5f8c97e90c764cc36d53",
+    "url": "/crustpizzalab/static/js/2.0150504f.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/crustpizzalab/static/js/2.b9439710.chunk.js.LICENSE.txt"
+    "url": "/crustpizzalab/static/js/2.0150504f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5b27b4b7f6aed4c3db15",
-    "url": "/crustpizzalab/static/js/main.172d002e.chunk.js"
+    "revision": "b65733f51d5a9983efb3",
+    "url": "/crustpizzalab/static/js/main.aaee8cc5.chunk.js"
   },
   {
     "revision": "863b6a12fd0a25eb1df5",
@@ -52,8 +52,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crustpizzalab/static/media/block5.50fc1d2c.jpg"
   },
   {
+    "revision": "f8527d8834ad9aa53fd1f74452071b93",
+    "url": "/crustpizzalab/static/media/crustadilla-combo.f8527d88.jpg"
+  },
+  {
     "revision": "7162e505722bf23ce5d7148a206282a3",
     "url": "/crustpizzalab/static/media/footer-logo.7162e505.png"
+  },
+  {
+    "revision": "f2f0708ee9b6019a6a95f1864c62c834",
+    "url": "/crustpizzalab/static/media/kids-combo.f2f0708e.jpg"
   },
   {
     "revision": "a203aed528fee873f84569bdcc40ff59",
@@ -62,5 +70,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
     "url": "/crustpizzalab/static/media/logo.5d5d9eef.svg"
+  },
+  {
+    "revision": "44a83df1150219a59d1132feb18c18de",
+    "url": "/crustpizzalab/static/media/original-combo.44a83df1.jpg"
+  },
+  {
+    "revision": "5eeb65753f22fd11a5b872058bbefe03",
+    "url": "/crustpizzalab/static/media/square-combo.5eeb6575.jpg"
   }
 ]);

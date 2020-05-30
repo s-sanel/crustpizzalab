@@ -1,34 +1,38 @@
 {
   "files": {
-    "main.css": "/crustpizzalab/static/css/main.ed7e2fc1.chunk.css",
-    "main.js": "/crustpizzalab/static/js/main.172d002e.chunk.js",
-    "main.js.map": "/crustpizzalab/static/js/main.172d002e.chunk.js.map",
+    "main.css": "/crustpizzalab/static/css/main.bd14b2ff.chunk.css",
+    "main.js": "/crustpizzalab/static/js/main.aaee8cc5.chunk.js",
+    "main.js.map": "/crustpizzalab/static/js/main.aaee8cc5.chunk.js.map",
     "runtime-main.js": "/crustpizzalab/static/js/runtime-main.2d573584.js",
     "runtime-main.js.map": "/crustpizzalab/static/js/runtime-main.2d573584.js.map",
     "static/css/2.af3c1da9.chunk.css": "/crustpizzalab/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.b9439710.chunk.js": "/crustpizzalab/static/js/2.b9439710.chunk.js",
-    "static/js/2.b9439710.chunk.js.map": "/crustpizzalab/static/js/2.b9439710.chunk.js.map",
+    "static/js/2.0150504f.chunk.js": "/crustpizzalab/static/js/2.0150504f.chunk.js",
+    "static/js/2.0150504f.chunk.js.map": "/crustpizzalab/static/js/2.0150504f.chunk.js.map",
     "index.html": "/crustpizzalab/index.html",
-    "precache-manifest.31d50e2f5708ce97ea0153fbf509ebde.js": "/crustpizzalab/precache-manifest.31d50e2f5708ce97ea0153fbf509ebde.js",
+    "precache-manifest.33a4c3e83afda7254f200b5cc7c1b503.js": "/crustpizzalab/precache-manifest.33a4c3e83afda7254f200b5cc7c1b503.js",
     "service-worker.js": "/crustpizzalab/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/crustpizzalab/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.ed7e2fc1.chunk.css.map": "/crustpizzalab/static/css/main.ed7e2fc1.chunk.css.map",
-    "static/js/2.b9439710.chunk.js.LICENSE.txt": "/crustpizzalab/static/js/2.b9439710.chunk.js.LICENSE.txt",
-    "static/media/parallax.css": "/crustpizzalab/static/media/Slide0.89fc34a5.jpg",
+    "static/css/main.bd14b2ff.chunk.css.map": "/crustpizzalab/static/css/main.bd14b2ff.chunk.css.map",
+    "static/js/2.0150504f.chunk.js.LICENSE.txt": "/crustpizzalab/static/js/2.0150504f.chunk.js.LICENSE.txt",
+    "static/media/menu-page.scss": "/crustpizzalab/static/media/Slide0.89fc34a5.jpg",
     "static/media/Slide1.jpg": "/crustpizzalab/static/media/Slide1.9ac97229.jpg",
     "static/media/Slide2.jpg": "/crustpizzalab/static/media/Slide2.058381bd.jpg",
     "static/media/block3.jpg": "/crustpizzalab/static/media/block3.554c0353.jpg",
     "static/media/block4.jpg": "/crustpizzalab/static/media/block4.886274a3.jpg",
     "static/media/block5.jpg": "/crustpizzalab/static/media/block5.50fc1d2c.jpg",
+    "static/media/crustadilla-combo.jpg": "/crustpizzalab/static/media/crustadilla-combo.f8527d88.jpg",
     "static/media/footer-logo.png": "/crustpizzalab/static/media/footer-logo.7162e505.png",
+    "static/media/kids-combo.jpg": "/crustpizzalab/static/media/kids-combo.f2f0708e.jpg",
     "static/media/logo-crust.png": "/crustpizzalab/static/media/logo-crust.a203aed5.png",
-    "static/media/logo.svg": "/crustpizzalab/static/media/logo.5d5d9eef.svg"
+    "static/media/logo.svg": "/crustpizzalab/static/media/logo.5d5d9eef.svg",
+    "static/media/original-combo.jpg": "/crustpizzalab/static/media/original-combo.44a83df1.jpg",
+    "static/media/square-combo.jpg": "/crustpizzalab/static/media/square-combo.5eeb6575.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2d573584.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.b9439710.chunk.js",
-    "static/css/main.ed7e2fc1.chunk.css",
-    "static/js/main.172d002e.chunk.js"
+    "static/js/2.0150504f.chunk.js",
+    "static/css/main.bd14b2ff.chunk.css",
+    "static/js/main.aaee8cc5.chunk.js"
   ]
 }
