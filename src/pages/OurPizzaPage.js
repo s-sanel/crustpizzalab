@@ -10,7 +10,7 @@ const OurPizzaPage = () => {
             <p>WELCOME TO THE NEXT LEVEL OF PIZZA</p>
           </div>
         </div>
-        <div className="our-pizza-content mb-5 row mx-0">
+        <div className="our-pizza-content mb-5 row mx-0 justify-content-center">
             <div className="col-sm-12 col-lg-8">
                 <h2 className="mb-5">PIZZA FÖR DINA 5 SINNEN</h2>
                 <div>
