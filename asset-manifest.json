@@ -1,19 +1,28 @@
 {
   "files": {
-    "main.css": "/crustpizzalab/static/css/main.d6a41a43.chunk.css",
-    "main.js": "/crustpizzalab/static/js/main.1bfa63fa.chunk.js",
-    "main.js.map": "/crustpizzalab/static/js/main.1bfa63fa.chunk.js.map",
+    "main.css": "/crustpizzalab/static/css/main.3ea45de2.chunk.css",
+    "main.js": "/crustpizzalab/static/js/main.4f0a6973.chunk.js",
+    "main.js.map": "/crustpizzalab/static/js/main.4f0a6973.chunk.js.map",
     "runtime-main.js": "/crustpizzalab/static/js/runtime-main.2d573584.js",
     "runtime-main.js.map": "/crustpizzalab/static/js/runtime-main.2d573584.js.map",
     "static/css/2.af3c1da9.chunk.css": "/crustpizzalab/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.9122fc67.chunk.js": "/crustpizzalab/static/js/2.9122fc67.chunk.js",
-    "static/js/2.9122fc67.chunk.js.map": "/crustpizzalab/static/js/2.9122fc67.chunk.js.map",
+    "static/js/2.98025bef.chunk.js": "/crustpizzalab/static/js/2.98025bef.chunk.js",
+    "static/js/2.98025bef.chunk.js.map": "/crustpizzalab/static/js/2.98025bef.chunk.js.map",
     "index.html": "/crustpizzalab/index.html",
-    "precache-manifest.39d3bc854bb18c2acc75a64434d8b098.js": "/crustpizzalab/precache-manifest.39d3bc854bb18c2acc75a64434d8b098.js",
+    "precache-manifest.f11f6d260a50a7963b2e3a25fad8141b.js": "/crustpizzalab/precache-manifest.f11f6d260a50a7963b2e3a25fad8141b.js",
     "service-worker.js": "/crustpizzalab/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/crustpizzalab/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.d6a41a43.chunk.css.map": "/crustpizzalab/static/css/main.d6a41a43.chunk.css.map",
-    "static/js/2.9122fc67.chunk.js.LICENSE.txt": "/crustpizzalab/static/js/2.9122fc67.chunk.js.LICENSE.txt",
+    "static/css/main.3ea45de2.chunk.css.map": "/crustpizzalab/static/css/main.3ea45de2.chunk.css.map",
+    "static/js/2.98025bef.chunk.js.LICENSE.txt": "/crustpizzalab/static/js/2.98025bef.chunk.js.LICENSE.txt",
+    "static/media/Original_Piri-Piri.jpg": "/crustpizzalab/static/media/Original_Piri-Piri.ac8cfafc.jpg",
+    "static/media/Original_The_Mexican.jpg": "/crustpizzalab/static/media/Original_The_Mexican.34195568.jpg",
+    "static/media/Origininal_Chassy_Chick_Caesar.jpg": "/crustpizzalab/static/media/Origininal_Chassy_Chick_Caesar.f2995769.jpg",
+    "static/media/Origininal_Hello_Hawaii.jpg": "/crustpizzalab/static/media/Origininal_Hello_Hawaii.dd741d58.jpg",
+    "static/media/Origininal_Holy_Guacamole.jpg": "/crustpizzalab/static/media/Origininal_Holy_Guacamole.5430dd10.jpg",
+    "static/media/Origininal_Mr._Burns.jpg": "/crustpizzalab/static/media/Origininal_Mr._Burns.ddb11e71.jpg",
+    "static/media/Origininal_The_Signature.jpg": "/crustpizzalab/static/media/Origininal_The_Signature.4aac0fb1.jpg",
+    "static/media/Origininal_Truepizza.jpg": "/crustpizzalab/static/media/Origininal_Truepizza.e066a54c.jpg",
+    "static/media/Origininal_Truffel_Heaven.jpg": "/crustpizzalab/static/media/Origininal_Truffel_Heaven.cb643199.jpg",
     "static/media/menu-page.scss": "/crustpizzalab/static/media/Slide0.89fc34a5.jpg",
     "static/media/our-pizza-page.scss": "/crustpizzalab/static/media/Slide1.9ac97229.jpg",
     "static/media/Slide2.jpg": "/crustpizzalab/static/media/Slide2.058381bd.jpg",
@@ -31,8 +40,8 @@
   "entrypoints": [
     "static/js/runtime-main.2d573584.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.9122fc67.chunk.js",
-    "static/css/main.d6a41a43.chunk.css",
-    "static/js/main.1bfa63fa.chunk.js"
+    "static/js/2.98025bef.chunk.js",
+    "static/css/main.3ea45de2.chunk.css",
+    "static/js/main.4f0a6973.chunk.js"
   ]
 }

@@ -1,31 +1,67 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cfd3504cf578b8b61e78ffecae1f9d73",
+    "revision": "2496a3f98647b9f1a98f4d73ca815e54",
     "url": "/crustpizzalab/index.html"
   },
   {
-    "revision": "0a8771533d42508481f9",
+    "revision": "202e3c51d121200b8213",
     "url": "/crustpizzalab/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "d873fbf0dd0906f2a1a0",
-    "url": "/crustpizzalab/static/css/main.d6a41a43.chunk.css"
+    "revision": "5dfb0ae5e59465eff7b2",
+    "url": "/crustpizzalab/static/css/main.3ea45de2.chunk.css"
   },
   {
-    "revision": "0a8771533d42508481f9",
-    "url": "/crustpizzalab/static/js/2.9122fc67.chunk.js"
+    "revision": "202e3c51d121200b8213",
+    "url": "/crustpizzalab/static/js/2.98025bef.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/crustpizzalab/static/js/2.9122fc67.chunk.js.LICENSE.txt"
+    "url": "/crustpizzalab/static/js/2.98025bef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d873fbf0dd0906f2a1a0",
-    "url": "/crustpizzalab/static/js/main.1bfa63fa.chunk.js"
+    "revision": "5dfb0ae5e59465eff7b2",
+    "url": "/crustpizzalab/static/js/main.4f0a6973.chunk.js"
   },
   {
     "revision": "863b6a12fd0a25eb1df5",
     "url": "/crustpizzalab/static/js/runtime-main.2d573584.js"
+  },
+  {
+    "revision": "ac8cfafcae8ec5313c2c72b3fe85cee7",
+    "url": "/crustpizzalab/static/media/Original_Piri-Piri.ac8cfafc.jpg"
+  },
+  {
+    "revision": "34195568dd92170cbedc0687fb0a6c70",
+    "url": "/crustpizzalab/static/media/Original_The_Mexican.34195568.jpg"
+  },
+  {
+    "revision": "f2995769a12ff2f260eb5ffe6f135ac7",
+    "url": "/crustpizzalab/static/media/Origininal_Chassy_Chick_Caesar.f2995769.jpg"
+  },
+  {
+    "revision": "dd741d58333e6378f472d1acf0f14964",
+    "url": "/crustpizzalab/static/media/Origininal_Hello_Hawaii.dd741d58.jpg"
+  },
+  {
+    "revision": "5430dd1089e3430e0612aee0b57004f1",
+    "url": "/crustpizzalab/static/media/Origininal_Holy_Guacamole.5430dd10.jpg"
+  },
+  {
+    "revision": "ddb11e71774632b3741ce72707060242",
+    "url": "/crustpizzalab/static/media/Origininal_Mr._Burns.ddb11e71.jpg"
+  },
+  {
+    "revision": "4aac0fb1ddc8b7889c992ac3119c401c",
+    "url": "/crustpizzalab/static/media/Origininal_The_Signature.4aac0fb1.jpg"
+  },
+  {
+    "revision": "e066a54cc2937004f3e4d966f3afe1e6",
+    "url": "/crustpizzalab/static/media/Origininal_Truepizza.e066a54c.jpg"
+  },
+  {
+    "revision": "cb64319972a57c8a0989788abb852b24",
+    "url": "/crustpizzalab/static/media/Origininal_Truffel_Heaven.cb643199.jpg"
   },
   {
     "revision": "89fc34a57c7c6dc815eea63370416971",
