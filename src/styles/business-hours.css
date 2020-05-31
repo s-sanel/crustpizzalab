@@ -1,4 +1,6 @@
-.business-hours {}
+.business-hours-container {
+    background-color: #E74345;
+}
 
 .business-hours-content {
     display: flex;
