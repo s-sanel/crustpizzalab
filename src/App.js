@@ -13,13 +13,7 @@ import ArticlesList from './components/ArticlesList';
 import Footer from './components/Footer';
 import Parallax from './components/Parallax';
 import MenuPage from './pages/MenuPage';
-
-
-// const MenuPage = () => (
-//   <div>
-//     <h1>Menu page</h1>
-//   </div>
-// );
+import OurPizzaPage from './pages/OurPizzaPage';
 
 const RestaurantsPage = () => (
   <div>
@@ -57,9 +51,10 @@ function App() {
       <div className="page-wrapper">
         <Switch>
           <Route path="/" exact component={Home} />
-          <Route path="/menu" exact component={MenuPage} />
-          <Route path="/restaurants" exact component={RestaurantsPage} />
-          <Route path="/contact" exact component={ContactPage} />
+          <Route path="/our-pizza" exact component={OurPizzaPage} />
+          <Route path="/menu" component={MenuPage} />
+          <Route path="/restaurants" component={RestaurantsPage} />
+          <Route path="/contact" component={ContactPage} />
         </Switch>
       </div>
       <Footer />

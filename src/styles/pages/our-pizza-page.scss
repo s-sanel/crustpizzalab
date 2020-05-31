@@ -1,10 +1,5 @@
-.menu-page {
-    background-color: #F7FAFC; 
-    color: gray;
-}
-
-.menu-page-banner {
-    background-image: url(../../images/slide/Slide0.jpg);
+.our-pizza-page-banner {
+    background-image: url(../../images/slide/Slide1.jpg);
     /* background-color: #FFBF0A; */   
     background-position: 60% 50%;
     background-repeat: no-repeat;
@@ -12,7 +7,7 @@
     height: 300px;
     display: flex;
     
-    & .menu-page-banner-content {
+    & .our-pizza-banner-content {
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -29,17 +24,6 @@
     }
 }
 
-.section-title {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #DDDDDD;
-  color: white;
-  text-align: center;
-  letter-spacing: 3px;
-    
-    & h2 {
-      font-size: 36px;
-      font-weight: bolder;
-    }
+.our-pizza-content {
+    color: #333333;
 }

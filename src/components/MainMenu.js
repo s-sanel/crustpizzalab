@@ -28,7 +28,7 @@ const MainMenu = () => {
 
           <Navbar.Collapse id="basic-navbar-nav" className='navbar-collapse'>
             <Nav className="mr-auto nav-collapse nav-collapse-container">        
-                <LinkContainer exact to="/">
+                <LinkContainer exact to="/our-pizza">
                     <Nav.Link><PizzaIcon className="d-block d-lg-none mr-3"/>VÅRA PIZZOR</Nav.Link>
                 </LinkContainer>
 
