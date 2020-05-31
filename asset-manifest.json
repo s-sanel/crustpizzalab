@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/crustpizzalab/static/css/main.d6a41a43.chunk.css",
-    "main.js": "/crustpizzalab/static/js/main.75e2708a.chunk.js",
-    "main.js.map": "/crustpizzalab/static/js/main.75e2708a.chunk.js.map",
+    "main.js": "/crustpizzalab/static/js/main.1bfa63fa.chunk.js",
+    "main.js.map": "/crustpizzalab/static/js/main.1bfa63fa.chunk.js.map",
     "runtime-main.js": "/crustpizzalab/static/js/runtime-main.2d573584.js",
     "runtime-main.js.map": "/crustpizzalab/static/js/runtime-main.2d573584.js.map",
     "static/css/2.af3c1da9.chunk.css": "/crustpizzalab/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.5bf224a6.chunk.js": "/crustpizzalab/static/js/2.5bf224a6.chunk.js",
-    "static/js/2.5bf224a6.chunk.js.map": "/crustpizzalab/static/js/2.5bf224a6.chunk.js.map",
+    "static/js/2.9122fc67.chunk.js": "/crustpizzalab/static/js/2.9122fc67.chunk.js",
+    "static/js/2.9122fc67.chunk.js.map": "/crustpizzalab/static/js/2.9122fc67.chunk.js.map",
     "index.html": "/crustpizzalab/index.html",
-    "precache-manifest.cebf45327a1516a7b60b4a5045f41871.js": "/crustpizzalab/precache-manifest.cebf45327a1516a7b60b4a5045f41871.js",
+    "precache-manifest.39d3bc854bb18c2acc75a64434d8b098.js": "/crustpizzalab/precache-manifest.39d3bc854bb18c2acc75a64434d8b098.js",
     "service-worker.js": "/crustpizzalab/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/crustpizzalab/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.d6a41a43.chunk.css.map": "/crustpizzalab/static/css/main.d6a41a43.chunk.css.map",
-    "static/js/2.5bf224a6.chunk.js.LICENSE.txt": "/crustpizzalab/static/js/2.5bf224a6.chunk.js.LICENSE.txt",
+    "static/js/2.9122fc67.chunk.js.LICENSE.txt": "/crustpizzalab/static/js/2.9122fc67.chunk.js.LICENSE.txt",
     "static/media/menu-page.scss": "/crustpizzalab/static/media/Slide0.89fc34a5.jpg",
     "static/media/our-pizza-page.scss": "/crustpizzalab/static/media/Slide1.9ac97229.jpg",
     "static/media/Slide2.jpg": "/crustpizzalab/static/media/Slide2.058381bd.jpg",
@@ -31,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.2d573584.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.5bf224a6.chunk.js",
+    "static/js/2.9122fc67.chunk.js",
     "static/css/main.d6a41a43.chunk.css",
-    "static/js/main.75e2708a.chunk.js"
+    "static/js/main.1bfa63fa.chunk.js"
   ]
 }
